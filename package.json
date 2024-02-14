@@ -1,0 +1,16 @@
+{
+  "name": "macro-forwarder-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@superfluid-finance/ethereum-contracts": "1.9.1-PR1786.0555cba.0",
+    "@superfluid-finance/metadata": "^1.1.27",
+    "ethers": "^6.11.0"
+  }
+}
